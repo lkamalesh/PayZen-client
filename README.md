@@ -2,6 +2,10 @@
 
 Production-ready merchant operations dashboard built with React 18 + TypeScript + Vite.
 
+## Live Host
+
+- https://payzen-ai.vercel.app
+
 ## Stack
 
 - React 18 + TypeScript (strict)
